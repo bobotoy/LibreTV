@@ -159,7 +159,7 @@ const API_SITES = {
          api: 'https://yutuzy10.com',
          name: '玉兔资源',
          adult: true
-     },
+     }
 };
 
 // 添加聚合搜索的配置选项
